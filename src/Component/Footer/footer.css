@@ -1,0 +1,7 @@
+#footer .container-fluid {
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  color: white;
+  background: brown;
+}
